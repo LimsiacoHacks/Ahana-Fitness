@@ -36,7 +36,7 @@
 				<div class="col-md-6 d-none d-md-block p-0">
 					<div class="header-info">
 						<i class="material-icons">map</i>
-						<p>184 Main Collins Street</p>
+						<p>143 Iznart Street</p>
 					</div>
 					<div class="header-info">
 						<i class="material-icons">phone</i>
@@ -48,15 +48,7 @@
 						<i class="material-icons">alarm_on</i>
 						<p>Mon - Fri:  6:30am - 07:45pm</p>
 					</div>
-					<div class="header-info">
-						<i class="material-icons">language</i>
-						<select id="language" class="language-select">
-							<option data-display="Language">EN</option>
-							<option data-display="Language" value="1">ES</option>
-							<option data-display="Language" value="2">JA</option>
-							<option data-display="Language" value="2">AR</option>
-						</select>
-					</div>
+					
 				</div>
 			</div>
 		</div>
@@ -431,7 +423,7 @@
 							<ul>
 								<li><i class="material-icons">phone</i>(965) 436 3274</li>
 								<li><i class="material-icons">email</i>serenity.yoga@gmail.com</li>
-								<li><i class="material-icons">map</i>184 Main Collins Street</li>
+								<li><i class="material-icons">map</i>143 Iznart Street</li>
 							</ul>
 						</div>
 					</div>

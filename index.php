@@ -800,7 +800,7 @@
 							<ul>
 								<li><i class="material-icons">phone</i>(965) 436 3274</li>
 								<li><i class="material-icons">email</i>serenity.yoga@gmail.com</li>
-								<li><i class="material-icons">map</i>184 Main Collins Street</li>
+								<li><i class="material-icons">map</i>143 Iznart Streets</li>
 							</ul>
 						</div>
 					</div>
