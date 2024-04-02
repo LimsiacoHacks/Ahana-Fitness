@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-	<title>Ahana | Yoga</title>
+	<title>Serenity | Yoga</title>
 	<meta charset="UTF-8">
-	<meta name="description" content="Ahana Yoga HTML Template">
+	<meta name="description" content="Serenity Yoga HTML Template">
 	<meta name="keywords" content="yoga, html">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- Stylesheets -->
@@ -124,7 +124,7 @@
 							<img src="img/infor/1.jpg" alt="">
 							<div class="insta-hover">
 								<i class="fa fa-instagram"></i>
-								<p>ahana.yoga</p>
+								<p>serenity.yoga</p>
 							</div>
 						</div>
 					</div>
@@ -133,7 +133,7 @@
 							<img src="img/infor/2.jpg" alt="">
 							<div class="insta-hover">
 								<i class="fa fa-instagram"></i>
-								<p>ahana.yoga</p>
+								<p>serenity.yoga</p>
 							</div>
 						</div>
 					</div>
@@ -142,7 +142,7 @@
 							<img src="img/infor/3.jpg" alt="">
 							<div class="insta-hover">
 								<i class="fa fa-instagram"></i>
-								<p>ahana.yoga</p>
+								<p>serenity.yoga</p>
 							</div>
 						</div>
 					</div>
@@ -151,7 +151,7 @@
 							<img src="img/infor/4.jpg" alt="">
 							<div class="insta-hover">
 								<i class="fa fa-instagram"></i>
-								<p>ahana.yoga</p>
+								<p>serenity.yoga</p>
 							</div>
 						</div>
 					</div>
@@ -160,7 +160,7 @@
 							<img src="img/infor/5.jpg" alt="">
 							<div class="insta-hover">
 								<i class="fa fa-instagram"></i>
-								<p>ahana.yoga</p>
+								<p>serenity.yoga</p>
 							</div>
 						</div>
 					</div>
@@ -169,7 +169,7 @@
 							<img src="img/infor/6.jpg" alt="">
 							<div class="insta-hover">
 								<i class="fa fa-instagram"></i>
-								<p>ahana.yoga</p>
+								<p>serenity.yoga</p>
 							</div>
 						</div>
 					</div>
@@ -214,7 +214,7 @@
 						<h2>Yoga Therapy</h2>
 						<div class="blog-meta"><p><i class="material-icons">alarm_on</i>120 Mins </p></div>
 						<div class="blog-meta"><p><i class="material-icons">people_outline</i>250 People Registered</p></div>
-						<p>With so many long-term benefits for health and beauty, many people choose Yoga as a form of daily exercise and sports. However, for those who want to practice Yoga, especially beginners, the choice of location is extremely important. It is impossible to count how many gyms with a variety of quality and prices. Some of the following questions will be answered by Ahana Yoga to help you find the best practice room.</p>
+						<p>With so many long-term benefits for health and beauty, many people choose Yoga as a form of daily exercise and sports. However, for those who want to practice Yoga, especially beginners, the choice of location is extremely important. It is impossible to count how many gyms with a variety of quality and prices. Some of the following questions will be answered by serenity Yoga to help you find the best practice room.</p>
 						<blockquote>Yoga is now one of the most popular practice in the world. It is not simply the movement of the four limbs, Yoga is the product of a massive culture, a special "religion" that brings great value.</blockquote>
 
 						<div class="blog-gallery">
@@ -253,7 +253,7 @@
 							<img src="img/classes/author/4.jpg" alt="">
 							<div class="ba-text">
 								<h3>Dorothy Newman</h3>
-								<p>Let Yoga bring you perfect body, health and flexibility and a spirit of relaxation. Choose the nearest gym at Ahana Yoga and start this amazing journey!</p>
+								<p>Let Yoga bring you perfect body, health and flexibility and a spirit of relaxation. Choose the nearest gym at serenity Yoga and start this amazing journey!</p>
 								<div class="ba-social">
 									<a href="#"><i class="fa fa-facebook"></i></a>
 									<a href="#"><i class="fa fa-instagram"></i></a>
@@ -468,42 +468,42 @@
 				<img src="img/gallery/1.jpg" alt="">
 				<div class="gs-hover">
 					<i class="fa fa-instagram"></i>
-					<p>ahana.yoga</p>
+					<p>serenity.yoga</p>
 				</div>
 			</div>
 			<div class="gs-item">
 				<img src="img/gallery/2.jpg" alt="">
 				<div class="gs-hover">
 					<i class="fa fa-instagram"></i>
-					<p>ahana.yoga</p>
+					<p>serenity.yoga</p>
 				</div>
 			</div>
 			<div class="gs-item">
 				<img src="img/gallery/3.jpg" alt="">
 				<div class="gs-hover">
 					<i class="fa fa-instagram"></i>
-					<p>ahana.yoga</p>
+					<p>serenity.yoga</p>
 				</div>
 			</div>
 			<div class="gs-item">
 				<img src="img/gallery/4.jpg" alt="">
 				<div class="gs-hover">
 					<i class="fa fa-instagram"></i>
-					<p>ahana.yoga</p>
+					<p>serenity.yoga</p>
 				</div>
 			</div>
 			<div class="gs-item">
 				<img src="img/gallery/5.jpg" alt="">
 				<div class="gs-hover">
 					<i class="fa fa-instagram"></i>
-					<p>ahana.yoga</p>
+					<p>serenity.yoga</p>
 				</div>
 			</div>
 			<div class="gs-item">
 				<img src="img/gallery/6.jpg" alt="">
 				<div class="gs-hover">
 					<i class="fa fa-instagram"></i>
-					<p>ahana.yoga</p>
+					<p>serenity.yoga</p>
 				</div>
 			</div>
 		</div>
@@ -521,7 +521,7 @@
 							<p>Lorem ipsum dolor sit amet, consec-tetur adipiscing elit sed.</p>
 							<ul>
 								<li><i class="material-icons">phone</i>(965) 436 3274</li>
-								<li><i class="material-icons">email</i>ahana.yoga@gmail.com</li>
+								<li><i class="material-icons">email</i>serenity.yoga@gmail.com</li>
 								<li><i class="material-icons">map</i>184 Main Collins Street</li>
 							</ul>
 						</div>

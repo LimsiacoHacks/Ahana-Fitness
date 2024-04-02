@@ -666,7 +666,7 @@
 							<h4>Begginer</h4>
 						</div>
 						<div class="pi-price">
-							<h3>$59</h3>
+							<h3>₱1,500</h3>
 							<p>Per month</p>
 						</div>
 						<ul>
@@ -684,7 +684,7 @@
 							<h4>Entermediate</h4>
 						</div>
 						<div class="pi-price">
-							<h3>$99</h3>
+							<h3>₱2,500</h3>
 							<p>Per month</p>
 						</div>
 						<ul>
@@ -702,7 +702,7 @@
 							<h4>Advanced</h4>
 						</div>
 						<div class="pi-price">
-							<h3>$159</h3>
+							<h3>₱3,500</h3>
 							<p>Per month</p>
 						</div>
 						<ul>
@@ -720,7 +720,7 @@
 							<h4>Professional</h4>
 						</div>
 						<div class="pi-price">
-							<h3>$199</h3>
+							<h3>₱5,000</h3>
 							<p>Per month</p>
 						</div>
 						<ul>

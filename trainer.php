@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-	<title>Ahana | Yoga HTML Template</title>
+	<title>Serenity | Yoga </title>
 	<meta charset="UTF-8">
-	<meta name="description" content="Ahana Yoga HTML Template">
+	<meta name="description" content="Serenity Yoga HTML Template">
 	<meta name="keywords" content="yoga, html">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- Stylesheets -->
@@ -124,7 +124,7 @@
 							<img src="img/infor/1.jpg" alt="">
 							<div class="insta-hover">
 								<i class="fa fa-instagram"></i>
-								<p>ahana.yoga</p>
+								<p>serenity.yoga</p>
 							</div>
 						</div>
 					</div>
@@ -133,7 +133,7 @@
 							<img src="img/infor/2.jpg" alt="">
 							<div class="insta-hover">
 								<i class="fa fa-instagram"></i>
-								<p>ahana.yoga</p>
+								<p>serenity.yoga</p>
 							</div>
 						</div>
 					</div>
@@ -142,7 +142,7 @@
 							<img src="img/infor/3.jpg" alt="">
 							<div class="insta-hover">
 								<i class="fa fa-instagram"></i>
-								<p>ahana.yoga</p>
+								<p>serenity.yoga</p>
 							</div>
 						</div>
 					</div>
@@ -151,7 +151,7 @@
 							<img src="img/infor/4.jpg" alt="">
 							<div class="insta-hover">
 								<i class="fa fa-instagram"></i>
-								<p>ahana.yoga</p>
+								<p>serenity.yoga</p>
 							</div>
 						</div>
 					</div>
@@ -160,7 +160,7 @@
 							<img src="img/infor/5.jpg" alt="">
 							<div class="insta-hover">
 								<i class="fa fa-instagram"></i>
-								<p>ahana.yoga</p>
+								<p>serenity.yoga</p>
 							</div>
 						</div>
 					</div>
@@ -169,7 +169,7 @@
 							<img src="img/infor/6.jpg" alt="">
 							<div class="insta-hover">
 								<i class="fa fa-instagram"></i>
-								<p>ahana.yoga</p>
+								<p>serenity.yoga</p>
 							</div>
 						</div>
 					</div>
@@ -339,42 +339,42 @@
 				<img src="img/gallery/1.jpg" alt="">
 				<div class="gs-hover">
 					<i class="fa fa-instagram"></i>
-					<p>ahana.yoga</p>
+					<p>serenity.yoga</p>
 				</div>
 			</div>
 			<div class="gs-item">
 				<img src="img/gallery/2.jpg" alt="">
 				<div class="gs-hover">
 					<i class="fa fa-instagram"></i>
-					<p>ahana.yoga</p>
+					<p>serenity.yoga</p>
 				</div>
 			</div>
 			<div class="gs-item">
 				<img src="img/gallery/3.jpg" alt="">
 				<div class="gs-hover">
 					<i class="fa fa-instagram"></i>
-					<p>ahana.yoga</p>
+					<p>serenity.yoga</p>
 				</div>
 			</div>
 			<div class="gs-item">
 				<img src="img/gallery/4.jpg" alt="">
 				<div class="gs-hover">
 					<i class="fa fa-instagram"></i>
-					<p>ahana.yoga</p>
+					<p>serenity.yoga</p>
 				</div>
 			</div>
 			<div class="gs-item">
 				<img src="img/gallery/5.jpg" alt="">
 				<div class="gs-hover">
 					<i class="fa fa-instagram"></i>
-					<p>ahana.yoga</p>
+					<p>serenity.yoga</p>
 				</div>
 			</div>
 			<div class="gs-item">
 				<img src="img/gallery/6.jpg" alt="">
 				<div class="gs-hover">
 					<i class="fa fa-instagram"></i>
-					<p>ahana.yoga</p>
+					<p>serenity.yoga</p>
 				</div>
 			</div>
 		</div>
@@ -392,7 +392,7 @@
 							<p>Lorem ipsum dolor sit amet, consec-tetur adipiscing elit sed.</p>
 							<ul>
 								<li><i class="material-icons">phone</i>(965) 436 3274</li>
-								<li><i class="material-icons">email</i>ahana.yoga@gmail.com</li>
+								<li><i class="material-icons">email</i>serenity.yoga@gmail.com</li>
 								<li><i class="material-icons">map</i>184 Main Collins Street</li>
 							</ul>
 						</div>
