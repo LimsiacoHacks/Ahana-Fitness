@@ -23,10 +23,10 @@
 	<link rel="stylesheet" href="css/animate.css"/>
 	<!-- Main Stylesheets -->
 	<link rel="stylesheet" href="css/style.css"/>
-    <title>Login</title>
+    <title>ADMIN</title>
 </head>
 <body>
-    	<!-- Login Section -->
+    <!-- Login Section -->
 	<section class="hero-section">
 		<div class="hero-slider owl-carousel">
 			<div class="hs-item">
@@ -34,7 +34,7 @@
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <div class="modal-header">
-                                <h5 class="modal-title" id="exampleModalLabel">Login Account</h5>
+                                <h5 class="modal-title" id="exampleModalLabel">Admin</h5>
                             </div>
                             <div class="modal-body">
                                 <form action="process.php" method="POST" enctype="multipart/form-data">
@@ -51,9 +51,9 @@
                                         <input type="password" class="form-control" required name="password" placeholder=" Enter Password...">
                                     </div></p>
                                     <div class="modal-footer">
-                                        <a href="register.php" class="btn btn-secondary" name="create_account" value="Register">REGISTER</a>
+                                        <a href="login.php" class="btn btn-secondary">BACK</a>
                                         <a href="admin.php" class="btn btn-secondary">ADMIN</a>
-                                        <input type="submit" class="btn btn-success" name="member_login" value="LOGIN">
+                                        <input type="submit" class="btn btn-success" name="admin_login" value="LOGIN">
                                     </div>
                                 </form>
                             </div>

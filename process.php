@@ -80,7 +80,7 @@
     if(isset($_POST['admin_login'])){
 
         $email = $_POST['email'];
-        $pass = $_POST['pass'];
+        $pass = $_POST['password'];
 
         $check = mysqli_query($conn, "SELECT * FROM admin WHERE email='$email' AND password='$pass'");
 
@@ -91,7 +91,7 @@
             ?>
             <script>
                 alert("Login Successfully");
-                window.location.href="admin/index.php";
+                window.location.href="Admin/index.php";
             </script>
             <?php
 
